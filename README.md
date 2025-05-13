@@ -13,7 +13,7 @@ BlePrototype_v4.py (COMPLETE) - Fourth Prototype that begins the transition to p
 
 app-debug.apk (COMPLETE) - Compiled version of the final product of the app, made in Android Studio.
 
-myApplication4 - Source Code of the app, made in Android Studio.
+myApplication4 (COMPLETE) - Source Code of the app, made in Android Studio.
 
 
 REQUIRES service account credentials file named "credentials.json"
